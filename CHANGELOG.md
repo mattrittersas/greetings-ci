@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/mattrittersas/greetings-ci/compare/v0.4.0...v0.4.1) (2024-02-06)
+
+
+### Bug Fixes
+
+* add workflow_dispatch ([440da14](https://github.com/mattrittersas/greetings-ci/commit/440da14590e7acf016469ae9b62fa9ebb51cdf98))
+
+
+
 # [0.4.0](https://github.com/mattrittersas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * reset change log ([7440d47](https://github.com/mattrittersas/greetings-ci/commit/7440d4758f9e1fc6d0f8ba8ebb5ed51cbc12aee3))
-
-
-
-## [0.1.1](https://github.com/mattrittersas/greetings-ci/compare/v0.1.0...v0.1.1) (2024-02-06)
-
-
-### Bug Fixes
-
-* add skip-git-pull back in ([210ac1c](https://github.com/mattrittersas/greetings-ci/commit/210ac1c8b60333030dd0d2f209b7c21d93c87fca))
 
 
 
