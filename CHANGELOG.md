@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/mattrittersas/greetings-ci/compare/v0.1.2...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([b38e555](https://github.com/mattrittersas/greetings-ci/commit/b38e5553dc05a9b31090825c5f18fefdce42f962))
+
+
+
 ## [0.1.2](https://github.com/mattrittersas/greetings-ci/compare/v0.1.1...v0.1.2) (2024-02-06)
 
 
