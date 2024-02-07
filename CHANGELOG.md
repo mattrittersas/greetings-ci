@@ -1,3 +1,12 @@
+## [0.6.1](https://github.com/mattrittersas/greetings-ci/compare/v0.6.0...v0.6.1) (2024-02-07)
+
+
+### Bug Fixes
+
+* add blue to messages ([4548e4d](https://github.com/mattrittersas/greetings-ci/commit/4548e4d34bac197fadbacb603cf9d933025134cf))
+
+
+
 # [0.6.0](https://github.com/mattrittersas/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([8112aab](https://github.com/mattrittersas/greetings-ci/commit/8112aab32aa904e22e770cba0dc714994df1daa6))
-
-
-
-# [0.3.0](https://github.com/mattrittersas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
-
-
-### Features
-
-* version artifact ([df54d09](https://github.com/mattrittersas/greetings-ci/commit/df54d09ac9086727e729b07243d4482b922d63d9))
 
 
 
